@@ -3,6 +3,9 @@
 
 .home .banner_wrap {padding: 20px 20%}
 
-/* .home .banner_wrap {height: 30px;background: gray} */
+.home .category_wrap {height: 60px;background: gray} 
+.home .category_wrap ul {height: 60px;padding: 0 10%;text-align: center;} 
+.home .category_wrap ul li {width: 20%;height: 60px;line-height: 60px} 
+
 
 /*首頁End*/
